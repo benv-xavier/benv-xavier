@@ -34,10 +34,10 @@ Hi, I'm Benvindo Xavier!
 ## 🙋‍♂️ Let's Connect
 
 <p align="center">
-	<a href="" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="#" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://github.com/benv-xavier" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/benvindo-xavier-32b643252/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.facebook.com/profile.php?id=100076429331809" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 </p>
 
 <p align="center">Made with  &hearts; by Benvindo Xavier, 2022.</p>
