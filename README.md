@@ -40,4 +40,4 @@ Hi, I'm Benvindo Xavier!
 	<a href="" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 </p>
 
-<p align="center">Feito com  &hearts; por Benvindo Xavier, 2022.</p>
+<p align="center">Made with  &hearts; by Benvindo Xavier, 2022.</p>
