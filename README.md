@@ -5,7 +5,7 @@ Hi, I'm Benvindo Xavier!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=812&lines=Academic:+Computer+Science+Student+at+Catholic+University+of+Angola;Web+Developer;Always%20learning%20new%20things&center=true&width=812&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=820&lines=Academic:+Computer+Science+Student+at+Catholic+University+of+Angola;Web+Developer;Always%20learning%20new%20things&center=true&width=812&height=45"></a>
 </p>
 <hr/>
 
